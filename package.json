@@ -24,8 +24,9 @@
   },
   "dependencies": {
     "commander": "2.9.0",
-    "hoek": "4.x.x",
-    "cross-spawn": "3.0.1"
+    "cross-spawn": "3.0.1",
+    "fs-extra": "^0.30.0",
+    "hoek": "4.x.x"
   },
   "devDependencies": {
     "code": "2.x.x",
